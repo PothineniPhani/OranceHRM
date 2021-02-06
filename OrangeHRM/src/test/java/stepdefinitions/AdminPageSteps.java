@@ -22,7 +22,7 @@ public class AdminPageSteps {
 		String username = clist.get(0).get("username");
 		String password = clist.get(0).get("password");
 		DriverFactory.getDriver().get("https://opensource-demo.orangehrmlive.com/");
-		loginpage.adminLogin(username, password);
+		adminpage=loginpage.adminLogin(username, password);
 
 	}
 	@Given("user is on Adminpanel")

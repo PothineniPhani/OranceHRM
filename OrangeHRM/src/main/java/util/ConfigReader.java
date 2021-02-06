@@ -15,7 +15,7 @@ public class ConfigReader {
 	public Properties init_prop() {
 		prop=new Properties();
 		try {
-			FileInputStream file=new FileInputStream("E:\\Testing\\SeleniumAutomation\\NewCucumber\\CucumberPOM\\src\\test\\resources\\config\\config.properties");
+			FileInputStream file=new FileInputStream("C:\\Users\\Phani\\git\\Orance_HRM\\OrangeHRM\\src\\test\\resources\\config\\config.properties");
 			try {
 				prop.load(file);
 			} catch (IOException e) {
