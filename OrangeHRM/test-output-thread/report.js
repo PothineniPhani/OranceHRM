@@ -1,80 +1,80 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "f450e173-018c-4f0f-928d-32ef48cb341b",
-    "feature": "login page feature",
-    "scenario": "login page title",
-    "start": 1612629568183,
-    "group": 1,
-    "content": "",
-    "tags": "",
-    "end": 1612629577213,
-    "className": "passed"
-  },
-  {
-    "id": "d9e87412-9fe3-47a3-be7f-7242c5b2a9b5",
-    "feature": "login page feature",
-    "scenario": "login with correct credentials",
-    "start": 1612629586146,
-    "group": 1,
-    "content": "",
-    "tags": "",
-    "end": 1612629604267,
-    "className": "passed"
-  },
-  {
-    "id": "5887dec7-b308-458f-8a14-86f8a650c253",
+    "id": "75f50973-1bed-4d45-b487-7e7b1606e87b",
     "feature": "checking adminpage details",
     "scenario": "scenario description",
-    "start": 1612629514982,
+    "start": 1612846759950,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1612629536210,
-    "className": "passed"
+    "end": 1612846786863,
+    "className": "failed"
   },
   {
-    "id": "183b709d-c07b-4e31-baf9-7fb1988f4fc6",
+    "id": "93b84314-565a-47ca-be76-7b025b32b357",
     "feature": "login page feature",
     "scenario": "logo is displayed",
-    "start": 1612629604280,
+    "start": 1612846870488,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1612629613684,
+    "end": 1612846879650,
     "className": "passed"
   },
   {
-    "id": "0fddcf51-e3f5-48e5-9b3e-1b1c6e22ba77",
-    "feature": "Dashboard feature",
-    "scenario": "Dashboard page Title",
-    "start": 1612629536243,
-    "group": 1,
-    "content": "",
-    "tags": "",
-    "end": 1612629551925,
-    "className": "passed"
-  },
-  {
-    "id": "701b44bd-1461-4ef7-88ac-d85c408b256d",
+    "id": "1ea2207f-e2e0-4a0c-b581-94f8e28d38dd",
     "feature": "Dashboard feature",
     "scenario": "Dashboard quicklanch section",
-    "start": 1612629551960,
+    "start": 1612846804609,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1612629568155,
+    "end": 1612846825908,
     "className": "passed"
   },
   {
-    "id": "0c0862f8-27dc-4f6d-b199-ef21a3ecbdf5",
+    "id": "193f89c0-a148-49d5-88d1-0062f14c3a0e",
     "feature": "login page feature",
     "scenario": "forget password link is",
-    "start": 1612629577225,
+    "start": 1612846841449,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1612629586121,
+    "end": 1612846851692,
+    "className": "passed"
+  },
+  {
+    "id": "b0cc6316-3286-4dd5-8e92-9b5865af66be",
+    "feature": "login page feature",
+    "scenario": "login with correct credentials",
+    "start": 1612846851715,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1612846870480,
+    "className": "passed"
+  },
+  {
+    "id": "e8c1ee33-246c-4e19-a1c3-901f6e59490f",
+    "feature": "Dashboard feature",
+    "scenario": "Dashboard page Title",
+    "start": 1612846786964,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1612846804598,
+    "className": "passed"
+  },
+  {
+    "id": "3b897289-72a4-42bb-b958-33c89b0ca5cc",
+    "feature": "login page feature",
+    "scenario": "login page title",
+    "start": 1612846825939,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1612846841438,
     "className": "passed"
   }
 ]);
