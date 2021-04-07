@@ -7,6 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
 public class AdminPage {
+
 	private WebDriver driver;
 	private By adminbtn = By.xpath("//b[contains(text(),'Admin')]");
 	private By usermanagement = By.cssSelector("a#menu_admin_UserManagement");

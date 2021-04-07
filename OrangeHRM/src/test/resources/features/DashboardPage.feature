@@ -4,6 +4,7 @@ Background:
 		|username|password|
 		|Admin|admin123|
 		
+		
 Scenario: Dashboard page Title 
 	Given user is on Dashboard page 
 	Then page dashboardtitle should be "OrangeHRM" 

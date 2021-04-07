@@ -1,3 +1,4 @@
+@Admin
 Feature: checking adminpage details 
 
 Background: 
